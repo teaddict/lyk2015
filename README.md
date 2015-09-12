@@ -14,10 +14,13 @@ LYK 2015 JAVA SPRING MVC KURS NOTLARI
 [4.day](https://github.com/haticeSigirci/lyk2015Notes/blob/master/fourth.md)
 
 [5.gün](http://teaperfavore.tumblr.com/post/126668911311/java-spring-mvc-5-day-be%C5%9Finci-g%C3%BCn)
+[5.day](https://github.com/haticeSigirci/lyk2015Notes/blob/master/fifth.md)
 
 [6.gün](http://teaperfavore.tumblr.com/post/126986162311/java-spring-mvc-6-day-alt%C4%B1nc%C4%B1-g%C3%BCn)
+[6.day](https://github.com/haticeSigirci/lyk2015Notes/blob/master/sixth.md)
 
 [8.gün](http://teaperfavore.tumblr.com/post/127559051356/java-spring-mvc-8-day-sekizinci-g%C3%BCn)
+[8.day](https://github.com/haticeSigirci/lyk2015Notes/blob/master/seventh.md)
 
 [9.gün](http://teaperfavore.tumblr.com/post/127559218606/java-spring-mvc-9-day-dokuzuncu-g%C3%BCn)
 
